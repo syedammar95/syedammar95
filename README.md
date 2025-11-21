@@ -3,7 +3,7 @@
   <img src="Github Banner.png" alt="Ammar – Flutter Developer Banner" />
 </p>
 
-<h3 align="center">Flutter Developer | Cross-Platform | Firebase | Backend with Dart</h3>
+<h3 align="center">Flutter Developer | Cross-Platform | Firebase | Backend with Dart & Node.Js</h3>
 
 ---
 
