@@ -3,7 +3,6 @@
   <img src="Github Banner.png" alt="Ammar – Flutter Developer Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Syed Ammar</h1>
 <h3 align="center">Flutter Developer | Cross-Platform Apps | Firebase | Dart Backend</h3>
 
 ---
@@ -24,11 +23,10 @@ using Flutter, Firebase, REST APIs, and Dart backend.
 ## 🛠️ Languages & Tools
 
 ### **Languages & Frameworks**
-- Dart  
-- Flutter  
+- Dart    
 - Kotlin (basic)  
-- Java (basic)  
-- Android SDK  
+- Java (basic)
+- C, C++ (basic) 
 
 ### **IDEs**
 - Android Studio  
@@ -36,28 +34,33 @@ using Flutter, Firebase, REST APIs, and Dart backend.
 - IntelliJ IDEA  
 
 ### **Domain Expertise**
+- Android SDKs
 - Cross-platform Mobile App Development (Flutter/ Dart)  
 - Flutter Web  
-- Native Android  
+- Native development  
 - Firebase (Auth, Firestore, Realtime DB, Hosting, FCM, Cloud Messaging)  
 - REST API Integration (http, dio)  
 - Material UI, Custom Widgets, Responsive/Adaptive UI  
-- Shared Preferences, Hive, Cache Manager  
+- Shared Preferences, Hive, Cache Manager
+- User session management
 
 ### **Performance**
 - Isolates  
 - Lazy Loading  
 - Frame Rate Monitoring  
 - Efficient build and render optimization
-- Provider, State Notifire/ Value Notifier, GetX
+- Data Caching
+- State Management using Provider ( State Notifire/ Value Notifier, Multiproviders, Consumer widgets )
+- GetX State Management
 
 ### **Other Tools**
 - Postman  
-- Figma  
-- Adobe Photoshop  
+- Figma   
 - Cursor AI
-- Claude AI  
-- MS Office  
+- Claude AI
+- DeepSeek AI
+- MS Office
+- Adobe Photoshop  
 
 ---
 
@@ -134,8 +137,8 @@ Roles & Responsibilities
 
 ## 📱 Featured Projects (Live Links)
 
-### ✔ SKS Movies  
-🔗 https://play.google.com/store/apps/details?id=com.sksmoviesstodevelop.sksmoviess
+### ✔ eHomes  
+🔗 https://play.google.com/store/apps/details?id=com.ehomes.ehomes
 
 ### ✔ Foothpath App  
 🔗 https://play.google.com/store/apps/details?id=com.go.foothpath&pcampaignid=web_share
@@ -143,24 +146,13 @@ Roles & Responsibilities
 ### ✔ ThinkMate  
 🔗 https://play.google.com/store/apps/details?id=com.thinkmate.thinkmatte
 
+### ✔ SKS Movies  
+🔗 https://play.google.com/store/apps/details?id=com.sksmoviesstodevelop.sksmoviess
+
 ### ✔ TH-Lines Website  
 🔗 https://th-lines.co/
 
-### ✔ eHomes  
-🔗 https://play.google.com/store/apps/details?id=com.ehomes.ehomes
-
 > More references available upon request.
-
----
-
-## 🎓 Education
-
-**BS Software Engineering**  
-Iqra National University Peshawar (2016 – 2020)
-
-**FSC – Army Public College Kohat** (2014 – 2016)  
-
-**Matric – The City School Kohat** (Agha Khan Board)
 
 ---
 
