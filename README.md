@@ -3,154 +3,87 @@
   <img src="Github Banner.png" alt="Ammar – Flutter Developer Banner" />
 </p>
 
-<h3 align="center">Flutter Developer | Cross-Platform Apps | Firebase | Dart Backend</h3>
+<h3 align="center">Flutter Developer | Cross-Platform | Firebase | Backend with Dart</h3>
 
 ---
 
-## 💻 About Me
+## 💼 About Me
 
-Passionate and results-driven Flutter Developer with a strong foundation in **native Android development**,  
-**software quality assurance**, and **cross-platform mobile/web applications**.
+I'm a passionate and results-driven **Flutter Developer** with a total of 3 years of experience in mobile application development, including 2 years of solid, hands-on expertise with Flutter. I specialize in building production-grade, scalable apps across Android, iOS, and web platforms. My background includes native Android development, software quality assurance, and delivering robust cross-platform solutions by following clean architecture and best-practice coding standards.
 
-I build production-grade apps using **clean architecture**, **SOLID principles**, and **modern Flutter best practices**.  
-Known for writing **maintainable**, **scalable**, and **performance-oriented** code with strong problem-solving skills.
-
-Published multiple applications on the **Google Play Store** and actively contribute to **web & mobile projects**  
-using Flutter, Firebase, REST APIs, and Dart backend.
+- Published multiple apps to the Google Play Store.
+- Advocate of SOLID principles and maintainable, performance-oriented code.
+- Experienced in leading projects from architecture to deployment.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Technologies
 
 ### **Languages & Frameworks**
-- Dart    
-- Kotlin (basic)  
-- Java (basic)
-- C, C++ (basic) 
+- Dart (Advanced)
+- Flutter (Mobile & Web)
+- Kotlin, Java (Basic)
+- C, C++ (Basic)
 
-### **IDEs**
-- Android Studio  
-- VS Code  
-- IntelliJ IDEA  
+### **Tools & Platforms**
+- Android Studio, VS Code, IntelliJ IDEA
+- Postman, Figma
+- Firebase: Auth, Firestore, Realtime DB, Hosting, Cloud Messaging (FCM)
+- REST API Integration (`http`, `dio`)
+- State Management: Provider, GetX
 
-### **Domain Expertise**
-- Android SDKs
-- Cross-platform Mobile App Development (Flutter/ Dart)  
-- Flutter Web  
-- Native development  
-- Firebase (Auth, Firestore, Realtime DB, Hosting, FCM, Cloud Messaging)  
-- REST API Integration (http, dio)  
-- Material UI, Custom Widgets, Responsive/Adaptive UI  
-- Shared Preferences, Hive, Cache Manager
-- User session management
-
-### **Performance**
-- Isolates  
-- Lazy Loading  
-- Frame Rate Monitoring  
-- Efficient build and render optimization
-- Data Caching
-- State Management using Provider ( State Notifire/ Value Notifier, Multiproviders, Consumer widgets )
-- GetX State Management
-
-### **Other Tools**
-- Postman  
-- Figma   
-- Cursor AI
-- Claude AI
-- DeepSeek AI
-- MS Office
-- Adobe Photoshop  
+### **Expertise**
+- Firebase Ecosystem & Integration
+- Responsive & Adaptive UI with Material Design
+- Optimized data caching: Shared Preferences, Hive, Cache Manager
+- Performance tuning: isolates, lazy loading, frame rate monitoring
+- Testing: Functional/UI, bug reporting, iterative improvements
 
 ---
 
 ## 🚀 Professional Experience
 
-### **🔵 Flutter Developer — IT Genesis**  
-**Feb 2023 – Oct 2025**
+### **Flutter Developer — IT Genesis (Feb 2023 – Oct 2025)**
+- Led mobile and web app development using Flutter, clean architecture, and modular codebases.
+- Deployed apps on Android & iOS with responsive interfaces optimized for performance and accessibility.
+- Integrated complete Firebase stack (Auth, Firestore, FCM, Hosting) and applied caching strategies to improve speed.
+- Designed robust API layers with structured models and efficient error handling.
+- Led agile development, participated in sprint planning, code reviews, and implemented feedback-driven improvements.
+- Developed SMTP-based email workflows for Flutter Web.
 
-- Involved in end-to-end mobile and web application development using Flutter with clean architecture and scalable codebases.
+### **Android Developer Intern — LADS Technologies (Jan 2022 – Apr 2022)**
+- Built and enhanced production Android apps with AWS DynamoDB, S3, Cognito, and secure phone authentication using Firebase.
+- Developed UI/UX from prototype to deployment and performed comprehensive testing.
+- Contributed to cloud workflows, token verification, and client-side optimizations.
+- Collaborated on SDLC processes, delivered features end-to-end, and maintained app stability.
 
-- Developed and maintained cross-platform apps (Android & iOS) with responsive, adaptive UIs optimized for smartphones and tablets.
-
-- Integrated complete Firebase ecosystem including Firestore, Realtime Database, Firebase Auth, Firebase Cloud Messaging (FCM), and Hosting.
-
-- Performed CRUD operations with real-time synchronization and offline-first behavior to ensure seamless user experience.
-
-- Implemented Firebase Web Hosting for Flutter Web applications with efficient caching strategies to reduce load times and improve performance.
-
-- Used Provider for state management ensuring minimal widget rebuilds and optimized business logic execution.
-
-- Applied clean code principles, SOLID design patterns, and followed Flutter & Dart best practices across all projects.
-
-- Integrated REST APIs using structured data models, error handling, and scalable API layer design.
-
-- Improved app performance using lazy loading, local caching (Shared Preferences, Hive), and optimized rendering patterns.
-
-- Followed Agile methodology, actively participating in sprints, planning, and code reviews.
-
-- Integrated push notifications using Firebase Cloud Messaging (FCM).
-
-- Developed SMTP-based email functionality for Flutter Web applications. 
+### **E-commerce Operations (Amazon) (June 2022 – Present)**
+- Manage multiple online stores with professional virtual assistance.
+- Lead teams for client projects, conduct training, and oversee warehousing/logistics.
 
 ---
 
-### **🟢 Android Developer — LADS Technologies**  
-**Jan 2022 – Apr 2022**
+## 📱 Featured Projects
 
-Worked as an Android Developer Intern, contributing to commercial applications and delivering production-quality features with AWS + Firebase integrations.
+#### **eHomes**  
+Production multi vendor e-commerce app for product listings, search, and order management.  
+[Google Play Store](https://play.google.com/store/apps/details?id=com.ehomes.ehomes) | **Flutter, Firebase, Push notifications, REST API's**
 
-Key Contributions
+#### **Foothpath App**  
+Cross-platform Ride sharing, navigation and mapping app for walking routes and push notifications on booking rides.  
+[Google Play Store](https://play.google.com/store/apps/details?id=com.go.foothpath&pcampaignid=web_share) | **Stripe, Flutter, Google Maps API, Push notifications**
 
-- Developed features for two commercial Android applications using native Android & AWS cloud infrastructure.
+#### **ThinkMate**  
+Educational and exam prepration app for entery tests for medical universities.  
+[Google Play Store](https://play.google.com/store/apps/details?id=com.thinkmate.thinkmatte) | **REST API's, Local database**
 
-- Worked with AWS DynamoDB, S3 Object Storage, Cognito Identity Pools, and Firebase token verification for secure Phone Auth flows.
+#### **SKS Movies**  
+Streaming client for curated video content buying and selling tickets.  
+[Google Play Store](https://play.google.com/store/apps/details?id=com.sksmoviesstodevelop.sksmoviess) | **REST API's**
 
-- Built a solo Android application integrating OpenWeather APIs and Firebase Phone Authentication.
-
-- Participated actively across the entire SDLC — from UI/UX design to development, testing, and deployment.
-
-Roles & Responsibilities
-
-- Performed functional testing, UI testing, and responsiveness validation for developed modules.
-
-- Ensured quality through detailed bug reporting, debugging, and iterative improvement of application features.
-
-- Handled frontend development, implemented UI screens, and integrated modules into the main project architecture.
-
-- Collaborated with team leads to refine requirements, optimize workflows, and implement clean, maintainable code.
-
-- Maintained app stability and improved performance where required.
-
----
-
-
-### **🟠 E-commerce Business (Amazon)**  
-**June 2022 – Present**
-
-- Run and manage online stores & provide professional virtual assistance services.  
-- Managing teams for different clients.  
-- Conducts free knowledge sessions.
-- Warehousing services  
-
----
-
-## 📱 Featured Projects (Live Links)
-
-### ✔ eHomes  
-🔗 https://play.google.com/store/apps/details?id=com.ehomes.ehomes
-
-### ✔ Foothpath App  
-🔗 https://play.google.com/store/apps/details?id=com.go.foothpath&pcampaignid=web_share
-
-### ✔ ThinkMate  
-🔗 https://play.google.com/store/apps/details?id=com.thinkmate.thinkmatte
-
-### ✔ SKS Movies  
-🔗 https://play.google.com/store/apps/details?id=com.sksmoviesstodevelop.sksmoviess
-
-### ✔ TH-Lines Website  
-🔗 https://th-lines.co/
+#### **TH-Lines Website**  
+Company site for logistic inquires and bookings.  
+[Website](https://th-lines.co/) | **Flutter Web, Firebase Hosting, SMPT emailing**
 
 > More references available upon request.
 
@@ -159,22 +92,15 @@ Roles & Responsibilities
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://github.com/syedammar95">
-    <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
   <a href="https://www.linkedin.com/in/syed-ammar-03b189189/">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
   <a href="https://stackoverflow.com/users/13861413/syed-ammar">
     <img height="40" src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
   </a>
-
   <a href="mailto:Ammaruspeaks@gmail.com">
     <img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
   <a href="https://wa.me/923348331295">
     <img height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
