@@ -67,23 +67,23 @@ I'm a passionate and results-driven **Flutter Developer** with a total of 3 year
 
 #### **eHomes**  
 Production multi vendor e-commerce app for product listings, search, and order management.  
-[Google Play Store](https://play.google.com/store/apps/details?id=com.ehomes.ehomes) | **Flutter, Firebase, Push notifications, REST API's**
+[Google Play Store](•	https://play.google.com/store/apps/details?id=com.ehomes.ehomes) | **Flutter, Firebase, Push notifications, REST API's**
 
 #### **Foothpath App**  
 Cross-platform Ride sharing, navigation and mapping app for walking routes and push notifications on booking rides.  
-[Google Play Store](https://play.google.com/store/apps/details?id=com.go.foothpath&pcampaignid=web_share) | **Stripe, Flutter, Google Maps API, Push notifications**
+[Google Play Store](•	https://play.google.com/store/apps/details?id=com.go.foothpath&pcampaignid=web_share) | **Stripe, Flutter, Google Maps API, Push notifications**
 
 #### **ThinkMate**  
 Educational and exam prepration app for entery tests for medical universities.  
-[Google Play Store](https://play.google.com/store/apps/details?id=com.thinkmate.thinkmatte) | **REST API's, Local database**
+[Google Play Store](•	https://play.google.com/store/apps/details?id=com.thinkmate.thinkmatte) | **REST API's, Local database**
 
 #### **SKS Movies**  
 Streaming client for curated video content buying and selling tickets.  
-[Google Play Store](https://play.google.com/store/apps/details?id=com.sksmoviesstodevelop.sksmoviess) | **REST API's**
+[Google Play Store](•	https://play.google.com/store/apps/details?id=com.sksmoviesstodevelop.sksmoviess) | **REST API's**
 
 #### **TH-Lines Website**  
 Company site for logistic inquires and bookings.  
-[Website](https://th-lines.co/) | **Flutter Web, Firebase Hosting, SMPT emailing**
+[Website](•	https://th-lines.co/) | **Flutter Web, Firebase Hosting, SMPT emailing**
 
 > More references available upon request.
 
