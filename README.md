@@ -9,7 +9,7 @@
 
 ## 💼 About Me
 
-I'm a passionate and results-driven **Flutter Developer** with a total of 3 years of experience in mobile application development, including 2 years of solid, hands-on expertise with Flutter. I specialize in building production-grade, scalable apps across Android, iOS, and web platforms. My background includes native Android development, software quality assurance, and delivering robust cross-platform solutions by following clean architecture and best-practice coding standards.
+I'm a passionate and results-driven **Flutter Developer** with experience in mobile application development, hands-on expertise with Flutter. I specialize in building production-grade, scalable apps across Android, iOS, and web platforms. My background includes native Android development, software quality assurance, and delivering robust cross-platform solutions by following clean architecture and best-practice coding standards.
 
 - Published multiple apps to the Google Play Store.
 - Advocate of SOLID principles and maintainable, performance-oriented code.
