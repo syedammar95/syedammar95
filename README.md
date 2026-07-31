@@ -24,6 +24,8 @@ I'm a passionate and results-driven **Flutter Developer** with experience in mob
 - Flutter (Mobile & Web)
 - Kotlin, Java (Basic)
 - C, C++ (Basic)
+- Go
+- Postgres
 
 ### **Tools & Platforms**
 - Android Studio, VS Code, IntelliJ IDEA
